@@ -1,0 +1,5 @@
+Laptop Mandiri;8500000.0;10
+Mouse Wireless;150000.0;50
+Keyboard Mekanik;450000.0;25
+Monitor LED;1800000.0;12
+Printer Inkjet;1200000.0;8
